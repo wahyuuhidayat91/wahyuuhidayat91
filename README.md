@@ -12,7 +12,7 @@
 
 #### 🖥️ Programming & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 #### 🧪 Testing Tools
