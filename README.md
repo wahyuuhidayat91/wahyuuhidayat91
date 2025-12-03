@@ -2,11 +2,9 @@
 
 ### 🚀 About Me
 - 💻 QA Engineer | Automation & Manual Testing  
-- ⚙️ Familiar with: Postman, Katalon, Cypress, Selenium  
-- 🔧 Backend: Go, Node.js  
-- 🎨 Frontend: Vue.js, React  
+- ⚙️ Familiar with: Postman, Katalon, Cypress,  
 - ☕ Coffee enthusiast ☕  
-- 📍 Based in Indonesia  
+- 📍 Based in Bogor - Indonesia  
 
 ---
 
