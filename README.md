@@ -1,12 +1,5 @@
 <h1 align="center">Hi, I'm Wahyu Hidayat 👋</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahyuuhidayat91&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuuhidayat91&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
 ### 🚀 About Me
 - 💻 QA Engineer | Automation & Manual Testing  
 - ⚙️ Familiar with: Postman, Katalon, Cypress, Selenium  
@@ -55,8 +48,8 @@ Simple REST API with clean architecture.
 ---
 
 ### 📫 Contact Me
-- 📧 Email: **wahyu@example.com**
-- 💼 LinkedIn: *coming soon*
+- 📧 Email: **wahyuuhidayat091@gmail.com**
+- 💼 LinkedIn: [*Wahyu Hidayat*](https://www.linkedin.com/in/wahyu-hidayat-5584111b4/)
 
 ---
 
